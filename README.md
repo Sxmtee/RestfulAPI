@@ -1,6 +1,6 @@
 # RestfulAPI
 
-A Repo or project used to teach or Learn API Integration
+A Repo or project used to teach & Learn flutter API Integration
 
 ## Features
 * API : http://jsonplaceholder.typicode.com/posts
